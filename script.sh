@@ -4,3 +4,4 @@ echo "Direcciona a la carpeta A"
 cd A
 echo "Creando el archivo B"
 touch B
+echo "Hola Mundo"
